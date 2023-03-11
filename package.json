@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/EVERTONROGERIONUNES/studion/issues"
   },
-  "homepage": "https://github.com/EVERTONROGERIONUNES/studion#readme"
+  "homepage": "https://github.com/EVERTONROGERIONUNES/studion#readme",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
 }
